@@ -2,7 +2,7 @@
 using Microsoft.EntityFrameworkCore;
 using System.Reflection.Emit;
 
-namespace AgaintsAllOdds.Server.Data
+namespace AgainstAllOdds.Server.Data
 {
 	public class AppDbContext : DbContext
 	{
